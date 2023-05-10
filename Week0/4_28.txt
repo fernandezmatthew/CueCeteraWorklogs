@@ -1,0 +1,7 @@
+4/28
+
+Meeting with Amani to discuss more specifics about how I can actively contribute ot the project over May.
+Got the project mostly set up in Android studio. Still need to install Flutter, using a tutorial
+Amani provided for me.
+
+Total Hours: 1
