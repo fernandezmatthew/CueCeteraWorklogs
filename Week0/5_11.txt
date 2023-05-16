@@ -1,0 +1,5 @@
+5/11
+
+Installed flutter following the tutorial Amani provided for me.
+
+Total Hours: .5
