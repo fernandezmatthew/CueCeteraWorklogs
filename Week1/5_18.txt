@@ -1,0 +1,6 @@
+5/18
+
+Meeting with Afnan where we finished the setup I needed to get the app running in an android
+studio emulator.
+
+Total Hours: 1
