@@ -1,0 +1,6 @@
+5/21
+
+Worked through an online tutorial on Flutter and Dart in Android Studio. Should help me immensely with
+making changes to the main codebase.
+
+Total Hours: 4
