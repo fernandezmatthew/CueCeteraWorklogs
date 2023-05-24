@@ -1,0 +1,6 @@
+5/23
+
+- Continued working on the tutorial. Currently getting aquainted with "stateful" widgets, which
+are just dynamic widgets.
+
+Total Hours: 2
