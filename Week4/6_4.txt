@@ -1,0 +1,6 @@
+6/4
+
+Continued working on tutorial.
+Began working on a world time app that uses an API.
+
+Total Hours: 3
