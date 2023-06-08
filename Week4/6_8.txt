@@ -1,0 +1,10 @@
+6/8
+
+Started studying and making changes to the existing Flutter codebase for Cue-Cetera.
+Prototyping the page I'm in charge of, which should display the video that was classified,
+with timestamps, classification, and a changeable progress bar.
+
+Potentially want to see if I can refactor all the flutter code to make it cleaner and easy to extend.
+Would also want to overhaul a lot of the UI, it is currently not very pretty.
+
+Total Hours: 2
