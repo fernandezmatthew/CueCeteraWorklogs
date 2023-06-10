@@ -1,0 +1,5 @@
+6/10
+
+Continued working on page, started exploring how to incorporate video playback.
+
+Total Hours: 2
