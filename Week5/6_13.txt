@@ -1,0 +1,9 @@
+6/13
+
+Tested Chewie's video player with a different aspect ratio, had no issues. Figured out how to make a
+timestamp button that will change where the user is in the video.
+Will now work to generate a list of those timestamp objects (defined as its own class) with their own data, such
+as color.
+This list of timestamps will be scrollable if need be, either using scrollviewsinglechild or listview.build object.
+
+Total Hours: 1
