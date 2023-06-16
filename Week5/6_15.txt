@@ -1,0 +1,12 @@
+6/15
+
+Finished designing the timestamp cards. Made it so they can be generated via
+looping through a list. Thus, if we can generate a list of timestamps using
+the data from firebase, we can generate the final product properly.
+
+Also did some screensize formatting so our app foesnt only look okay on Pixel 5.
+
+Would still like to do some organizational overhauls but it feels disrespectful to
+the rest of the group 0.0
+
+Total Hours: 3
