@@ -1,0 +1,6 @@
+6/16
+
+Tried to get an icon on top of the video that showed based on the current emotion. No luck so far using
+a binary search that executes every 1 second. My search might not be correctly defined.
+
+Total Hours: 2
