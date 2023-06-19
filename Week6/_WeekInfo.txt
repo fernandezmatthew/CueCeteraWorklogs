@@ -1,0 +1,6 @@
+6/18 - 6/24
+
+Made it so the symbol for the current timestamp is properly displayed on the video in real time.
+Need to optimize the algorithm used for this functionality though.
+
+Total Hours: 2
