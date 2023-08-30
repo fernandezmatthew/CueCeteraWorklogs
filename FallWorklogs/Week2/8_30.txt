@@ -1,0 +1,6 @@
+8/30
+
+Refactored displayed emotions to be grouped in positive,
+negative, or neutral. 
+
+Total Hours: 1
