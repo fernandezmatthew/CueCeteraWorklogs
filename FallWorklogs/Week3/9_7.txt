@@ -1,0 +1,7 @@
+9/7
+
+Changed the linear search in result_display page to be a binary search.
+Changed the UI for the Result_display page
+Remapped emotions to pertain to new ML classification
+
+Total Hours: 2
