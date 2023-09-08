@@ -1,0 +1,6 @@
+9/8
+
+broke the home page out into its own file.
+made the spacing on the home page adaptable so itll work on multiple devices.
+
+Total Hours: 2
