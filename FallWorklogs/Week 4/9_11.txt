@@ -1,0 +1,6 @@
+9/11
+
+Met with group and worked on alpha submission
+Refactored existing flutter codebase to pop out all functionality into their own classes
+
+Total Hours: 3
