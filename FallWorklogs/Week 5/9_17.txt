@@ -1,0 +1,6 @@
+9/17
+
+Fiddled with a settings page possibility for our accessiblity options.
+Only looking at design so far, not implementation of the settings
+
+Total Hours: 2
