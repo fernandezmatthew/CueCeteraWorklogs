@@ -1,0 +1,8 @@
+9/18
+
+Did some research into implementing an auto generated closed captioning
+system, but ultimately decided against it. May come back to it.
+Started researching how to manipulate the video directly so the user may
+download the video with the watermarked timestamps after using.
+
+Total Hours: 2
