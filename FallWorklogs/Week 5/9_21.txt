@@ -1,0 +1,10 @@
+9/21
+
+Had a meeting with the group and a meeting with Carsten.
+Researched more into video manipulation, but also into file downloading
+for after the video was changed.
+Added some buttons to the taskbar on the result_display page for the download
+(not implemented) and to return home, which pops up with an "Are 
+you sure" message on tap.
+
+Total Hours: 3
