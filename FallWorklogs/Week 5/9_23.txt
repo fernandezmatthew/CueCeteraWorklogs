@@ -1,0 +1,17 @@
+9/23
+
+Doing a lot of research on saving files, and trying many different packages. 
+Wanted to note here, might want to use path_provider to make sure we're deleting our file'
+on app close?
+tried using gal package but didnt really work. Trying to use request system dialog now.
+At the end of the day, got the video to download to the android's local files using system dialog package.
+User expected to have decent knowledge of file types, which is a little annoying.
+
+Unsure how practical it would be to burn the images into the video. depending on video
+length and framerate, this could take a very long time, even if we figured out how to do it.
+
+Gonna spend some time trying to add an image on top of another image using a python script.
+if I can get this to work for one image, then i will try to do it to an entire video. I will note
+how long these things take. Then we can make the decision to implement the feature or not.
+
+Total Hours: 3
