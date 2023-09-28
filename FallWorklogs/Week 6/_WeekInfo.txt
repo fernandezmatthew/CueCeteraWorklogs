@@ -1,10 +1,3 @@
 9/24 - 9-30
 
-Group meeting discussing the alpha feedback and giving a progress update.
-Currently making good process on my python image manipulation, able to paste the thumb
-image onto the bottom right corner of a given image. Working to properly resize that
-thumb image now based on the frame size. 
-The next steps will be paste a certain image based on the classication of the current time window,
-then to convert all of the frames into a single mp4 that we can ship to the front end.
-
-Total Hours: 2
+Total Hours: 6

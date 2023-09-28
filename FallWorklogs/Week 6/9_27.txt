@@ -1,0 +1,7 @@
+9/27
+
+Got thumbs to properly resize and offset from the bottom right corner based on the dimensions of the given image.
+Was able to split an mp4 into all of its frames, then give each one a classication, saving all of those frames elsewhere
+Made a custom video to use a relevant reference.
+
+Total Hours: 4
