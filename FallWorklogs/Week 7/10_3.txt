@@ -1,0 +1,7 @@
+10/3
+
+Group meeting where we went over what else we needed to get done for the beta build, and discussed how
+and when we were gonna conduct our tests described in the alpha plan. Also spent about 3 hours classifying our
+data set.
+
+Total Hours: 4
