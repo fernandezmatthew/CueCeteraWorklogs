@@ -1,0 +1,10 @@
+10/4
+
+Meeting with Amani to discuss how to decode the model's classifications in order to properly
+display them on the page. Set up the framework to dynamically load this information and have
+everything work as it did already.
+
+NOTE: a bunch of files marked as changed on this commit because i fixed all the folders to not
+have a space between the week and its number.
+
+Total Hours: 1
