@@ -1,0 +1,7 @@
+10/5
+
+Group meeting where we discussed what we had worked on, and began working on our beta presentation.
+Finalized plans with Amani to get the output from the model.
+Discussed how the text to speech could be improved on the results display page
+
+Total Hours: 2

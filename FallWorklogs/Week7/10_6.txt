@@ -1,0 +1,7 @@
+10/6
+
+Implemented loading ui when interacting with firebase. also disables input.
+Bug fixed with amani.
+
+
+Total Hours: 3
