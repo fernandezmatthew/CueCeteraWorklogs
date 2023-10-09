@@ -1,0 +1,9 @@
+10/8
+
+Worked on our beta submissions in a group meeting.
+Made changes to the emotion mapping to match up with our new model.
+Fixed an infinite loop bug with my binary search.
+Did a demo of our application running, had to do some video editing as well.
+Made updates to the read me describing some of my changes
+
+Total Hours: 4
