@@ -1,0 +1,6 @@
+10/20
+
+Implemented the first version of the camera switching functionality. not sure if it
+works because emulator is displayingf weird results, need to test on tablet.
+
+Total Hours: 3
