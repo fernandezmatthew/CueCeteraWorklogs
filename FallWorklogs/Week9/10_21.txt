@@ -1,0 +1,6 @@
+10/21
+
+Tested new color blind mode.
+started changing the upload video page to immediately display the filepicker
+
+Total Hours: 2
