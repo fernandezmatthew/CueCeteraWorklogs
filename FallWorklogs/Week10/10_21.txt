@@ -1,0 +1,8 @@
+10/26
+
+Meeting with group and then with Carsten.
+Worked on some front end improvements following user feedback. removed the extra page for uploading a video,
+made a dedicated loading screen, routed the same loading screen for both video possibilities. also removed
+appbar back button for a bunch of pages.
+
+Total Hours: 4
