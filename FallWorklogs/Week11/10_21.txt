@@ -1,0 +1,7 @@
+10/29
+
+Worked on the video conversion script. got a video output with the burned icons
+But it currently has no audio. trying to transfer the audio from the original video.
+Trying to avoid ffmppeg
+
+Total Hours: 3
