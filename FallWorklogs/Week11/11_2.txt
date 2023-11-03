@@ -1,0 +1,7 @@
+11/2
+
+Made a program flow diagram
+fixed a bug where text size changing on home screen could cause overflow
+worked on release candidate submission
+
+Total Hours: 3

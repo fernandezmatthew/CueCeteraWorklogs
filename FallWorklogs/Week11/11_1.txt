@@ -1,0 +1,6 @@
+11/1
+
+Tried very unsuccessfully to transfer the audio from the original video to the new video.
+Trying to see if I can make the edits directly in flutter. It's not looking good.
+
+Total Hours: 4
