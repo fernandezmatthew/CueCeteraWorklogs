@@ -1,0 +1,11 @@
+11/9
+
+Went in to class to participate in user testing (only got feedback from carsten)
+fixed a bug he pointed out where we could go back from the result_display page
+made it so if you go back on that page you instead go the home screen after confirming
+made it so the camera swap button disappears once you start recording
+modularized the user settings into a UserSettings class.
+made it the user cannot go back from the processing video page
+changed the confirm back prompt to not insinuate classifications in the video
+
+Total Hours: 6
